@@ -1,0 +1,1 @@
+Run `npm install && npm run dev` to start the frontend. It connects to http://localhost:8000.
