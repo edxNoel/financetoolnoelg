@@ -1,5 +1,8 @@
 fastapi
 uvicorn
-openai>=1.52.0
 python-dotenv
 aiohttp
+langgraph
+langchain-core
+langchain-openai
+openai>=1.52.0
